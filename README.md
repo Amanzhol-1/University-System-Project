@@ -6,4 +6,3 @@ ___
 ### Use Case Diagram
 ![Markdown](https://github.com/sunsh1nezxc/University-System-Project/blob/main/Diagrams%20/usecase-diagram.jpeg)
 ### Class Diagram
-![Markdown](https://github.com/sunsh1nezxc/University-System-Project/blob/main/Diagrams%20/class-diagram.jpeg)
